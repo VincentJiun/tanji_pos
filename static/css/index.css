@@ -1,0 +1,16 @@
+body{
+    background-color: #f7f7f7;
+}
+a:hover{
+    text-decoration: none;
+}
+
+#entry-button-group {
+    margin-top: 200px;
+}
+
+#entry-button-group .btn {
+    height: 160px;
+    font-size: 50px;
+    line-height: 50px;
+}

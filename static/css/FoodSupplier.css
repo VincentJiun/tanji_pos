@@ -1,0 +1,12 @@
+a:hover {
+    text-decoration: none;
+}
+
+.t-h .col{
+    font-weight: bold;
+}
+
+.order-item-row {
+    height: 40px;
+    line-height: 40px;
+}
