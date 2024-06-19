@@ -1,0 +1,12 @@
+#returnBtn {
+    color: #b3b3b3;
+}
+
+#returnBtn:hover {
+    color: #2c2c2c;
+}
+
+.time {
+    font-size: 13px;
+    color: #c2c2c2;
+}

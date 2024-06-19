@@ -46,3 +46,6 @@ def foods(request):
 
 def orders(request):
     return render(request, 'manage/orders.html')
+
+def staffs(request):
+    return render(request, 'manage/staffs.html')

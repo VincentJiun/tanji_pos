@@ -12,7 +12,7 @@ class Order(models.Model):
     table_id = models.IntegerField(default=0)
     comment = models.CharField(max_length=50, default='')
     # staff = models.ForeignKey(
-    #     'Staff', on_delete=models.DO_NOTHING)     # 当时负责的员工
+    #     'Staff', on_delete=models.DO_NOTHING)     # 當時負責員工
 
     def __str__(self):
         return 'Order ' + str(self.ID)
